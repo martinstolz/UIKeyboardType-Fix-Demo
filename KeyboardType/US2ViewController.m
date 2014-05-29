@@ -34,7 +34,6 @@
     self.textField.backgroundColor = [UIColor lightGrayColor];
     self.textField.keyboardType = UIKeyboardTypeASCIICapable;
     self.textField.delegate = self;
-    self.textField.spellCheckingType = UITextSpellCheckingTypeYes;
     [self.view addSubview:self.textField];
     
     // Listen for text field changes
@@ -48,7 +47,7 @@
     
     // Override initial keyboard type
     self.textField.keyboardType = self.keyboardType;
-    if([self.textField.text isEqualToString:@""])
+    if (self.textField.text.length == 0)
     {
         self.textField.returnKeyType = UIReturnKeyDefault;
     }
