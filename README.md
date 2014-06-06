@@ -13,6 +13,6 @@ Out of that problem a library emerged.
 
 [![Build Status](https://travis-ci.org/ustwo/US2KeyboardType.svg?branch=master)](https://travis-ci.org/ustwo/US2KeyboardType)
 
-[https://github.com/ustwo/US2KeyboardType](https://github.com/ustwo/US2KeyboardType)/e
+[https://github.com/ustwo/US2KeyboardType](https://github.com/ustwo/US2KeyboardType)
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0aa41e895e9490ebd883aa888ce89e6d "githalytics.com")](http://githalytics.com/martinstolz/UIKeyboardType-Fix-Demo)
